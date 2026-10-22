@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- وجه الساعة -->
+    <path android:fillColor="#33FFFFFF" android:strokeColor="#FFFFFFFF" android:strokeWidth="5"
+        android:pathData="M54,38 a20,20 0 1,1 0,40 a20,20 0 1,1 0,-40" />
+    <!-- الجرسان -->
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M38,33 a7,7 0 1,1 0,14 a7,7 0 1,1 0,-14" />
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M70,33 a7,7 0 1,1 0,14 a7,7 0 1,1 0,-14" />
+    <!-- القائمتان -->
+    <path android:strokeColor="#FFFFFFFF" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M42,78 L37,84 M66,78 L71,84" />
+    <!-- علامة الصح -->
+    <path android:strokeColor="#FF7CF5E0" android:strokeWidth="5.5" android:strokeLineCap="round"
+        android:strokeLineJoin="round" android:pathData="M45,58 L52,65 L64,51" />
+</vector>
